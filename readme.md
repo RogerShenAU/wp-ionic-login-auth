@@ -8,7 +8,8 @@ Integrate with [ionic login](https://github.com/RogerShenAU/ionic-login) starter
 
 	```bash
 	this.authUrl = 'https://www.example.com/wp-ionic-login-auth'; 
-	```bash
+	```
+	
 4. Log into [ionic login](https://github.com/RogerShenAU/ionic-login) starter app with your WordPress credentials
 
 ## Reference
