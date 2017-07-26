@@ -4,7 +4,7 @@ Integrate with [ionic login](https://github.com/RogerShenAU/ionic-login) starter
 ## How to use this plugin
 1. Setup your [ionic login](https://github.com/RogerShenAU/ionic-login) starter app
 2. Download and install this plugin to your WordPress site, make sure your site's permalink settings(/wp-admin/options-permalink.php) is NOT set as "Plain"
-3. Update/Add below code to [ionic login](https://github.com/RogerShenAU/ionic-login)/src/providers/post/post.ts
+3. Update/Add below code to [ionic login](https://github.com/RogerShenAU/ionic-login)/src/providers/post/post.ts, change "https://www.example.com" to your website URL
 
 	```bash
 	this.authUrl = 'https://www.example.com/wp-ionic-login-auth'; 
