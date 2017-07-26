@@ -1,5 +1,5 @@
 ## Description
-Integrate with [ionic login](https://github.com/RogerShenAU/ionic-login) starter app, provide server-side authorisation. This plugin can be downloaded via [WP ionic login auth](https://github.com/RogerShenAU/wp-ionic-login-auth)
+Integrate [ionic login](https://github.com/RogerShenAU/ionic-login) starter app with WordPress login and provide server-side authorisation. This plugin can be downloaded via [WP ionic login auth](https://github.com/RogerShenAU/wp-ionic-login-auth)
 
 ## How to use this plugin
 1. Setup your [ionic login](https://github.com/RogerShenAU/ionic-login) starter app
