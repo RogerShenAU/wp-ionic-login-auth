@@ -10,6 +10,8 @@ Text Domain:
 Domain Path: 
 */
 
+register_activation_hook(__FILE__, 'wp_ionic_login_authorisation_plugin_activate'); 
+
 register_deactivation_hook(__FILE__, 'wp_ionic_login_authorisation_plugin_activate'); 
 
 function wp_ionic_login_authorisation_plugin_activate () {
